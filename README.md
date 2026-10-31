@@ -40,3 +40,5 @@ No build step required. Open `index.html` in a browser to preview.
 ## License
 
 © 2026 Claes-Philip Staiger. All rights reserved.
+
+Dokument i CP:s skisstil görs med cllp/skissramverk, se dess AGENTS.md. Rendera med npx --yes github:cllp/skissramverk <spec> <ut>.
